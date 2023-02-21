@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISelection_Edge.dll"</Assembly>
+		<AddInId>0C381066-A218-4870-BE39-85A3EBF1D782</AddInId>
+		<FullClassName>RevitAPISelection_Edge.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор элементов по ребру для Revit</Text>
+	</AddIn>
+</RevitAddIns>
